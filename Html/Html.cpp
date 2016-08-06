@@ -73,7 +73,6 @@ public:
 	{
 		char znak;
 		_plik1 >> znak;
-		//int mark = 0;
 		// zczytyje wyrazy z html , sprawdzam czy znajduja sie w liscie , jesli tak to rzucam na stos 
 		while (!_plik1.eof())
 		//do
